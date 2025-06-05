@@ -1,0 +1,3 @@
+# SistGestionRecursos
+
+Sistema de Control y Prestamo de Electronica, Hardware, Redes y Telecomunicaciones...
